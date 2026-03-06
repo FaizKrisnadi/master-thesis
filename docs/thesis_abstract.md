@@ -1,0 +1,9 @@
+# Thesis Abstract
+
+## Does the Label Matter? Explaining When Chinese Development Finance and FDI Blur in Indonesian Elite Narratives
+
+China provides Indonesia with both development finance (DF) and foreign direct investment (FDI), yet elite commentary often collapses these flows into "Chinese investment." This thesis explains variation in Indonesian elite media narrative tier about Chinese-linked capital: Tier 1 baseline reporting, Tier 2 technocratic scrutiny, and Tier 3 polarized contestation. I argue that tier shifts are driven by perceived state-ness, shaped by legal form (DF vs FDI) and National Strategic Project (PSN) designation, operating through (1) legibility of public liability, (2) salience of local externalities, and (3) state mediation without transparency that blurs DF/FDI attribution. DF's state-to-state form increases liability legibility and prompts scrutiny of fiscal exposure, procurement, and governance. Firm-led FDI makes labor and environmental impacts more salient, encouraging contestation. The boundary blurs when nominally private FDI is designated PSN, which signals state involvement without commensurate transparency and invites DF-like narratives.
+
+I test the argument with a mixed-methods design. I map Chinese DF and FDI projects using AidData, BKPM, and the China Global Investment Tracker. I then code 762 articles from Kompas, Tempo, and The Jakarta Post using an LLM-assisted protocol; dominant frames and stance are coded as indicators used to construct narrative tier. Label quality is assessed through prompt sensitivity checks, a 100-article inter-model agreement test, and targeted human review. Four elite interviews provide process evidence on narrative production and stabilization.
+
+Findings align with the proposed tiers: a neutral diplomatic baseline; technocratic scrutiny around the Jakarta-Bandung high-speed rail; and polarized contestation, alongside PSN-driven blurring, in Morowali nickel downstreaming.

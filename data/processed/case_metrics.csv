@@ -1,0 +1,225 @@
+project_id,project_name,total_documents,first_date,last_date,dominant_stance,dominant_frame,supportive_share,neutral_share,opposed_share
+P001,AIIB,11,2015-06-04,2016-11-09,Supportive,F5,0.6364,0.3636,0.0
+P002,AIIB COVID-19 loan,1,2020-05-10,2020-05-10,Supportive,F1,1.0,0.0,0.0
+P003,Asian Infrastructure Investment Bank (AIIB),21,2014-09-13,2015-05-12,Supportive,F5,0.619,0.3333,0.0476
+P004,BRI COVID-19 medical aid,1,2020-05-18,2020-05-18,Supportive,F5,1.0,0.0,0.0
+P005,"BRI coal power projects (Tanah Kuning, Kalselteng 3/4, Celukan Bawang 2)",1,2019-04-26,2019-04-26,Opposed,F4,0.0,0.0,1.0
+P006,BRI energy infrastructure (general),1,2020-08-23,2020-08-23,Neutral,F4,0.0,1.0,0.0
+P007,BRICS membership & Chinese financing,1,2017-09-04,2017-09-04,Neutral,F5,0.0,1.0,0.0
+P008,Balikpapan-Samarinda toll road,2,2015-09-24,2015-09-25,Supportive,F1,1.0,0.0,0.0
+P009,Balikpapan–Samarinda toll road,1,2015-02-25,2015-02-25,Supportive,F1,1.0,0.0,0.0
+P010,Batam KEK (Nongsa Digital Park & Batam Aero Technic),1,2020-07-12,2020-07-12,Supportive,F1,1.0,0.0,0.0
+P011,Batam/Rempang free trade & special economic zone,1,2017-07-27,2017-07-27,Neutral,F4,0.0,1.0,0.0
+P012,Batang Industrial Park,1,2020-07-05,2020-07-05,Neutral,F1,0.0,1.0,0.0
+P013,Batang Toru hydropower,2,2023-02-21,2023-02-22,Opposed,F4,0.0,0.0,1.0
+P014,Belt and Road / OBOR,1,2016-04-19,2016-04-19,Supportive,F5,1.0,0.0,0.0
+P015,Belt and Road Forum / BRI,1,2017-05-14,2017-05-14,Neutral,F5,0.0,1.0,0.0
+P016,Belt and Road Forum / Maritime Silk Road,1,2017-05-16,2017-05-16,Neutral,F5,0.0,1.0,0.0
+P017,Belt and Road Initiative,7,2015-04-23,2018-05-05,Supportive,F5,0.7143,0.2857,0.0
+P018,Belt and Road Initiative (BRI),12,2018-10-01,2019-09-21,Supportive,F2,0.5833,0.1667,0.25
+P019,Belt and Road Initiative (BRI) / Kuala Tanjung port,1,2019-04-26,2019-04-26,Neutral,F5,0.0,1.0,0.0
+P020,Belt and Road Initiative / OBOR,13,2017-04-26,2017-09-18,Supportive,F1,0.7692,0.2308,0.0
+P021,Belt and Road Summit / BRI,1,2019-04-25,2019-04-25,Neutral,F5,0.0,1.0,0.0
+P022,Bitung & Kuala Tanjung ports (OBOR),1,2017-05-15,2017-05-15,Supportive,F1,1.0,0.0,0.0
+P023,CFLD Lavon Swancity & Karawang New Industry,1,2019-07-23,2019-07-23,Supportive,F1,1.0,0.0,0.0
+P024,China Fortune integrated industrial park,1,2016-03-24,2016-03-24,Supportive,F1,1.0,0.0,0.0
+P025,Cisumdawu toll road,3,2016-09-28,2020-08-18,Neutral,F1,0.3333,0.6667,0.0
+P026,Dairi Prima Mineral zinc and lead project,1,2014-04-04,2014-04-04,Supportive,F1,1.0,0.0,0.0
+P027,Fast-Track Program I coal plants,1,2017-06-03,2017-06-03,Opposed,F4,0.0,0.0,1.0
+P028,GNI nickel smelter (North Morowali),5,2023-01-16,2023-05-16,Opposed,F3,0.0,0.2,0.8
+P029,General,260,2013-07-25,2024-12-12,Supportive,F1,0.4308,0.3692,0.2
+P030,General (5 flagship China–Indonesia projects),1,2024-05-16,2024-05-16,Supportive,F1,1.0,0.0,0.0
+P031,General (Asian water politics),1,2024-03-25,2024-03-25,Neutral,F5,0.0,1.0,0.0
+P032,General (BRF visit & diplomacy),1,2023-10-17,2023-10-17,Neutral,F5,0.0,1.0,0.0
+P033,General (BRI & Chinese nickel smelters in Indonesia),1,2024-01-12,2024-01-12,Supportive,F5,1.0,0.0,0.0
+P034,General (BRI / Whoosh),1,2023-10-18,2023-10-18,Neutral,F5,0.0,1.0,0.0
+P035,General (BRI / global climate),1,2023-09-21,2023-09-21,Opposed,F4,0.0,0.0,1.0
+P036,General (BRI / shared future),1,2023-10-13,2023-10-13,Neutral,F5,0.0,1.0,0.0
+P037,General (BRI and RI–China comprehensive partnership),1,2023-12-07,2023-12-07,Supportive,F5,1.0,0.0,0.0
+P038,General (BRI energy projects / CEEC),1,2023-10-24,2023-10-24,Supportive,F5,1.0,0.0,0.0
+P039,General (BRI global),1,2023-10-14,2023-10-14,Supportive,F5,1.0,0.0,0.0
+P040,General (BRI in Southeast Asia),1,2023-09-13,2023-09-13,Neutral,F5,0.0,1.0,0.0
+P041,General (BRI lending & debt trap),1,2024-01-17,2024-01-17,Opposed,F2,0.0,0.0,1.0
+P042,General (BRI projects),1,2023-10-18,2023-10-18,Neutral,F2,0.0,1.0,0.0
+P043,General (BRI),1,2023-09-11,2023-09-11,Neutral,F5,0.0,1.0,0.0
+P044,"General (BRI, HSR, nickel and IKN)",1,2023-12-11,2023-12-11,Neutral,F2,0.0,1.0,0.0
+P045,"General (BRI, KCJB & Morowali)",1,2023-10-23,2023-10-23,Neutral,F5,0.0,1.0,0.0
+P046,General (CEWC 2024 and high quality BRI),1,2023-12-22,2023-12-22,Supportive,F5,1.0,0.0,0.0
+P047,General (China slowdown & Indonesian exports),1,2024-02-15,2024-02-15,Neutral,F1,0.0,1.0,0.0
+P048,General (China–Indonesia trade & investment linkages),1,2024-01-17,2024-01-17,Neutral,F1,0.0,1.0,0.0
+P049,General (China–Indonesia “community with shared future”),1,2024-05-15,2024-05-15,Supportive,F5,1.0,0.0,0.0
+P050,General (China’s global role & BRI),1,2023-12-30,2023-12-30,Supportive,F5,1.0,0.0,0.0
+P051,General (China’s ‘community of shared future’ & diplomacy),1,2024-02-09,2024-02-09,Supportive,F5,1.0,0.0,0.0
+P052,General (Chinese FDI & IKN / downstream),1,2023-10-17,2023-10-17,Supportive,F5,1.0,0.0,0.0
+P053,General (Chinese FDI & elections),1,2023-10-17,2023-10-17,Supportive,F5,1.0,0.0,0.0
+P054,"General (Chinese FDI, IKN, downstream)",1,2023-10-17,2023-10-17,Supportive,F5,1.0,0.0,0.0
+P055,General (Chinese energy & coal projects),1,2023-10-19,2023-10-19,Opposed,F4,0.0,0.0,1.0
+P056,General (Chinese infrastructure & downstream loans),1,2024-01-09,2024-01-09,Opposed,F2,0.0,0.0,1.0
+P057,"General (Chinese investment, HSR and nickel projects)",1,2023-11-27,2023-11-27,Opposed,F4,0.0,0.0,1.0
+P058,General (Chinese real estate FDI),1,2023-10-06,2023-10-06,Neutral,F1,0.0,1.0,0.0
+P059,General (Chinese tech & fintech platforms),1,2024-06-20,2024-06-20,Opposed,F4,0.0,0.0,1.0
+P060,General (ESG in nickel & tin mining),1,2023-03-21,2023-03-21,Neutral,F4,0.0,1.0,0.0
+P061,General (IPEF and US–China rivalry),1,2023-11-16,2023-11-16,Neutral,F5,0.0,1.0,0.0
+P062,General (Indonesia–China digital and smart city cooperation),1,2023-11-23,2023-11-23,Supportive,F5,1.0,0.0,0.0
+P063,General (Indonesia–China investment and nickel sector),1,2023-11-13,2023-11-13,Supportive,F5,1.0,0.0,0.0
+P064,General (Indonesia–China strategic partnership & IKN),1,2023-10-17,2023-10-17,Neutral,F5,0.0,1.0,0.0
+P065,General (Indonesia’s trade dependence on China),1,2023-11-26,2023-11-26,Neutral,F5,0.0,1.0,0.0
+P066,General (Prabowo early visit to China),1,2024-04-04,2024-04-04,Neutral,F5,0.0,1.0,0.0
+P067,General (Prabowo–Xi relationship),1,2024-04-02,2024-04-02,Supportive,F5,1.0,0.0,0.0
+P068,"General (RI–China bilateral ties, BRI, Whoosh, IKN)",1,2024-01-03,2024-01-03,Supportive,F5,1.0,0.0,0.0
+P069,General (RI–China relations and Whoosh),1,2023-12-05,2023-12-05,Supportive,F5,1.0,0.0,0.0
+P070,General (Vale nickel projects),1,2023-09-10,2023-09-10,Supportive,F1,1.0,0.0,0.0
+P071,General (Xi’s “Chinese modernization”),1,2024-07-31,2024-07-31,Neutral,F5,0.0,1.0,0.0
+P072,General (connectivity & BRI-related logistics),1,2023-11-10,2023-11-10,Neutral,F1,0.0,1.0,0.0
+P073,General (energy transition cooperation),1,2023-10-19,2023-10-19,Neutral,F2,0.0,1.0,0.0
+P074,General (food-estate & mining PSN),1,2024-07-27,2024-07-27,Opposed,F4,0.0,0.0,1.0
+P075,General (future Indonesia–China ties),1,2024-04-21,2024-04-21,Supportive,F5,1.0,0.0,0.0
+P076,"General (geo-economic competition in clean energy, BRI vs G7)",1,2024-01-12,2024-01-12,Neutral,F5,0.0,1.0,0.0
+P077,General (green finance and investment in Indonesia),1,2023-12-02,2023-12-02,Neutral,F4,0.0,1.0,0.0
+P078,General (halal industrial zones),1,2023-09-15,2023-09-15,Supportive,F1,1.0,0.0,0.0
+P079,General (hilirisasi & smelters),1,2023-10-15,2023-10-15,Neutral,F1,0.0,1.0,0.0
+P080,General (incl. Chinese investment & HSR),1,2024-07-29,2024-07-29,Opposed,F2,0.0,0.0,1.0
+P081,General (mining downstream policy),1,2023-10-09,2023-10-09,Neutral,F3,0.0,1.0,0.0
+P082,General (nickel EV battery ecosystem),1,2023-11-07,2023-11-07,Neutral,F1,0.0,1.0,0.0
+P083,General (nickel downstream districts),1,2023-10-06,2023-10-06,Opposed,F3,0.0,0.0,1.0
+P084,General (nickel downstream industry & smelter coal plants),1,2024-02-15,2024-02-15,Opposed,F4,0.0,0.0,1.0
+P085,General (nickel downstreaming & Chinese-linked EV supply chain),1,2024-01-25,2024-01-25,Opposed,F4,0.0,0.0,1.0
+P086,General (nickel downstreaming & EV industrial policy),1,2023-12-29,2023-12-29,Opposed,F4,0.0,0.0,1.0
+P087,General (nickel downstreaming & smelters),2,2023-11-03,2024-08-18,Neutral,F5,0.0,0.5,0.5
+P088,General (nickel export policy),1,2023-09-14,2023-09-14,Neutral,F2,0.0,1.0,0.0
+P089,General (nickel smelter regions: Morowali & Central Halmahera),1,2023-11-08,2023-11-08,Neutral,F3,0.0,1.0,0.0
+P090,General (nickel smelters),1,2017-05-16,2017-05-16,Supportive,F1,1.0,0.0,0.0
+P091,General (nickel “downstreaming”),1,2024-03-28,2024-03-28,Opposed,F2,0.0,0.0,1.0
+P092,General (sovereign debt),1,2024-04-26,2024-04-26,Opposed,F2,0.0,0.0,1.0
+P093,"General nickel industry (Vale, Morowali, etc.)",1,2023-04-30,2023-04-30,Neutral,F4,0.0,1.0,0.0
+P094,General nickel mining,1,2023-07-03,2023-07-03,Neutral,F4,0.0,1.0,0.0
+P095,Giant Sea Wall (Jakarta–Gresik),1,2024-10-30,2024-10-30,Supportive,F4,1.0,0.0,0.0
+P096,Gorontalo Minerals copper/gold project,1,2014-07-04,2014-07-04,Supportive,F1,1.0,0.0,0.0
+P097,Halmahera nickel & EV battery project,1,2018-08-10,2018-08-10,Supportive,F1,1.0,0.0,0.0
+P098,"Hambantota port, Sri Lanka",1,2018-10-31,2018-10-31,Opposed,F2,0.0,0.0,1.0
+P099,Huaqing infrastructure & toll-road projects,1,2017-09-19,2017-09-19,Supportive,F1,1.0,0.0,0.0
+P100,"IMIP / ITSS / GNI nickel smelters, Morowali",2,2023-12-24,2023-12-25,Opposed,F4,0.0,0.0,1.0
+P101,"IMIP / ITSS nickel smelter, Morowali",2,2023-12-24,2023-12-25,Opposed,F4,0.0,0.0,1.0
+P102,"IMIP nickel industrial park, Morowali",1,2023-12-25,2023-12-25,Neutral,F4,0.0,1.0,0.0
+P103,"ITSS nickel smelter & nickel downstreaming, IMIP Morowali",1,2024-01-02,2024-01-02,Opposed,F2,0.0,0.0,1.0
+P104,"ITSS nickel smelter, IMIP Morowali",1,2023-12-28,2023-12-28,Neutral,F4,0.0,1.0,0.0
+P105,Indonesia Eximbank China Eximbank/ICBC loans,1,2020-09-29,2020-09-29,Neutral,F1,0.0,1.0,0.0
+P106,Indonesia Morowali Industrial Park,1,2014-03-19,2014-03-19,Supportive,F1,1.0,0.0,0.0
+P107,Indonesia Morowali Industrial Park (IMIP),1,2022-09-10,2022-09-10,Supportive,F1,1.0,0.0,0.0
+P108,Jakarta LRT,1,2018-01-11,2018-01-11,Supportive,F1,1.0,0.0,0.0
+P109,Jakarta MRT,1,2018-03-14,2018-03-14,Supportive,F1,1.0,0.0,0.0
+P110,Jakarta Monorail,4,2013-10-04,2014-03-06,Opposed,F4,0.25,0.0,0.75
+P111,Jakarta-Bandung HSR,32,2020-03-02,2022-04-21,Opposed,F2,0.0938,0.25,0.6562
+P112,Jakarta-Bandung high-speed railway,83,2015-08-22,2018-03-22,Neutral,F4,0.1205,0.6506,0.2289
+P113,Jakarta-Surabaya rail,1,2017-09-20,2017-09-20,Neutral,F1,0.0,1.0,0.0
+P114,Jakarta-Surabaya rail upgrade,1,2016-10-11,2016-10-11,Neutral,F1,0.0,1.0,0.0
+P115,Jakarta–Bandung / Jakarta–Surabaya HSR,1,2021-06-04,2021-06-04,Supportive,F1,1.0,0.0,0.0
+P116,Jakarta–Bandung HSR,9,2021-04-13,2021-09-02,Opposed,F2,0.3333,0.2222,0.4444
+P117,Jakarta–Bandung HSR & Jakarta–Surabaya rail,1,2017-09-05,2017-09-05,Neutral,F5,0.0,1.0,0.0
+P118,Jakarta–Bandung HSR & North Kalimantan Industrial Park,1,2023-04-12,2023-04-12,Supportive,F1,1.0,0.0,0.0
+P119,Jakarta–Bandung HSR (KCJB),4,2023-02-04,2023-11-12,Neutral,F2,0.0,0.5,0.5
+P120,Jakarta–Bandung HSR (KCJB) feeder,1,2023-02-15,2023-02-15,Neutral,F1,0.0,1.0,0.0
+P121,Jakarta–Bandung high-speed rail,2,2015-04-07,2015-05-26,Opposed,F4,0.0,0.0,1.0
+P122,Jakarta–Bandung high-speed rail (KCJB),22,2022-06-22,2023-06-18,Neutral,F1,0.3182,0.3636,0.3182
+P123,Jakarta–Bandung high-speed railway,12,2017-05-11,2019-10-02,Neutral,F1,0.3333,0.6667,0.0
+P124,Jakarta–Lebak toll road,1,2021-05-09,2021-05-09,Supportive,F1,1.0,0.0,0.0
+P125,Jakarta–Surabaya HSR extension,2,2023-11-02,2023-11-02,Opposed,F2,0.0,0.5,0.5
+P126,Jakarta–Surabaya HSR extension (Whoosh),1,2023-11-12,2023-11-12,Neutral,F1,0.0,1.0,0.0
+P127,Jakarta–Surabaya HSR extension / BRI,1,2023-11-12,2023-11-12,Opposed,F2,0.0,0.0,1.0
+P128,Jakarta–Surabaya high-speed rail plan,1,2022-11-04,2022-11-04,Opposed,F1,0.0,0.0,1.0
+P129,Jakarta–Surabaya high-speed rail plan (via Bandung),1,2022-11-04,2022-11-04,Opposed,F4,0.0,0.0,1.0
+P130,Jakarta–Surabaya medium-speed rail,1,2017-06-07,2017-06-07,Neutral,F2,0.0,1.0,0.0
+P131,Jakarta–Surabaya rail,1,2018-02-09,2018-02-09,Neutral,F1,0.0,1.0,0.0
+P132,Java–Sumatra electricity interconnection (PLN–SGCC),1,2023-11-12,2023-11-12,Supportive,F1,1.0,0.0,0.0
+P133,KCI Commuter Line train purchase from CRRC Sifang,1,2024-02-02,2024-02-02,Neutral,F1,0.0,1.0,0.0
+P134,KCI Commuter Line trains from CRRC,1,2024-07-03,2024-07-03,Neutral,F1,0.0,1.0,0.0
+P135,KCI purchase of CRRC Sifang commuter trains,1,2024-02-03,2024-02-03,Supportive,F1,1.0,0.0,0.0
+P136,KCJB (Jakarta–Bandung HSR/Whoosh),7,2023-08-12,2023-09-18,Opposed,F1,0.2857,0.2857,0.4286
+P137,KIHI & nickel/aluminum smelter clusters,1,2023-04-26,2023-04-26,Opposed,F4,0.0,0.0,1.0
+P138,Kalimantan Industrial Park Indonesia (green industrial zone),1,2022-03-28,2022-03-28,Opposed,F4,0.0,0.0,1.0
+P139,Konawe & Morowali nickel smelters,1,2020-06-09,2020-06-09,Neutral,F3,0.0,1.0,0.0
+P140,Konawe nickel smelter (Virtue Dragon),1,2017-07-07,2017-07-07,Supportive,F1,1.0,0.0,0.0
+P141,Kotaku slum upgrading (AIIB loan),1,2017-08-26,2017-08-26,Neutral,F4,0.0,1.0,0.0
+P142,Kuala Tanjung Port special economic zone,1,2019-04-26,2019-04-26,Supportive,F1,1.0,0.0,0.0
+P143,Manado–Bitung toll road,6,2014-07-07,2018-02-20,Supportive,F1,0.6667,0.3333,0.0
+P144,Mandalika,2,2018-10-08,2018-10-17,Supportive,F1,1.0,0.0,0.0
+P145,Mandalika tourism project,2,2021-04-07,2023-06-19,Supportive,F4,0.5,0.5,0.0
+P146,Mandiodo nickel mine,1,2023-07-24,2023-07-24,Opposed,F4,0.0,0.0,1.0
+P147,Maritime Silk Road,3,2014-12-13,2015-08-05,Supportive,F5,1.0,0.0,0.0
+P148,Maritime Silk Road / Belt and Road,1,2016-10-10,2016-10-10,Neutral,F5,0.0,1.0,0.0
+P149,Maritime Silk Road / World Maritime Axis,1,2017-08-25,2017-08-25,Supportive,F5,1.0,0.0,0.0
+P150,Medan Chinese hospital project,1,2017-05-15,2017-05-15,Supportive,F1,1.0,0.0,0.0
+P151,Medan–Kuala Namu toll road,2,2013-06-24,2013-07-26,Neutral,F1,0.5,0.5,0.0
+P152,Morowali,1,2024-09-02,2024-09-02,Neutral,F4,0.0,1.0,0.0
+P153,Morowali & Konawe nickel smelters,1,2021-07-29,2021-07-29,Opposed,F1,0.0,0.0,1.0
+P154,Morowali & North Konawe nickel mining,1,2022-01-31,2022-01-31,Opposed,F4,0.0,0.0,1.0
+P155,Morowali (CNGR–UGM R&D / nickel),1,2024-05-15,2024-05-15,Supportive,F1,1.0,0.0,0.0
+P156,Morowali (IMIP HPAL smelter),1,2023-10-06,2023-10-06,Supportive,F1,1.0,0.0,0.0
+P157,Morowali (PT GNI CSR programs),1,2023-11-11,2023-11-11,Supportive,F1,1.0,0.0,0.0
+P158,Morowali (PT GNI smelter),1,2023-10-09,2023-10-09,Supportive,F1,1.0,0.0,0.0
+P159,Morowali (biomass power plant),1,2014-11-12,2014-11-12,Supportive,F1,1.0,0.0,0.0
+P160,Morowali (nickel/EV industrial park),1,2022-05-14,2022-05-14,Supportive,F1,1.0,0.0,0.0
+P161,Morowali / IMIP,1,2017-02-07,2017-02-07,Supportive,F4,1.0,0.0,0.0
+P162,Morowali / IMIP nickel smelters,1,2024-10-24,2024-10-24,Opposed,F3,0.0,0.0,1.0
+P163,Morowali / nickel mining and smelters,1,2017-11-16,2017-11-16,Opposed,F4,0.0,0.0,1.0
+P164,Morowali / nickel smelter investments,1,2017-11-16,2017-11-16,Supportive,F1,1.0,0.0,0.0
+P165,Morowali / smelter projects,1,2017-03-23,2017-03-23,Supportive,F4,1.0,0.0,0.0
+P166,Morowali EV battery materials project (QMB),1,2019-11-04,2019-11-04,Supportive,F1,1.0,0.0,0.0
+P167,Morowali EV battery plant,1,2020-08-24,2020-08-24,Supportive,F1,1.0,0.0,0.0
+P168,Morowali Industrial Park,7,2017-03-03,2020-08-05,Supportive,F1,0.8571,0.1429,0.0
+P169,Morowali Industrial Park (IMIP),8,2017-11-14,2019-08-14,Supportive,F1,0.5,0.375,0.125
+P170,Morowali Tsingshan industrial area,1,2015-06-05,2015-06-05,Supportive,F1,1.0,0.0,0.0
+P171,Morowali industrial area,1,2017-01-10,2017-01-10,Neutral,F1,0.0,1.0,0.0
+P172,Morowali industrial estate,1,2015-07-28,2015-07-28,Neutral,F1,0.0,1.0,0.0
+P173,Morowali industrial estate (nickel smelter),1,2015-02-17,2015-02-17,Supportive,F1,1.0,0.0,0.0
+P174,Morowali lithium battery factory,1,2018-12-19,2018-12-19,Supportive,F1,1.0,0.0,0.0
+P175,Morowali lithium battery plant,1,2019-01-24,2019-01-24,Supportive,F1,1.0,0.0,0.0
+P176,Morowali lithium battery project,1,2019-11-21,2019-11-21,Supportive,F1,1.0,0.0,0.0
+P177,Morowali nickel,1,2023-07-16,2023-07-16,Neutral,F1,0.0,1.0,0.0
+P178,Morowali nickel / EV investment,1,2022-05-09,2022-05-09,Supportive,F1,1.0,0.0,0.0
+P179,Morowali nickel mining,1,2022-01-31,2022-01-31,Opposed,F4,0.0,0.0,1.0
+P180,Morowali nickel project,1,2015-05-23,2015-05-23,Opposed,F4,0.0,0.0,1.0
+P181,Morowali nickel smelter,5,2013-07-24,2015-06-16,Supportive,F1,0.8,0.0,0.2
+P182,Morowali nickel smelter (GNI),1,2021-12-30,2021-12-30,Supportive,F1,1.0,0.0,0.0
+P183,Morowali nickel smelter (Sulawesi Mining Investment),1,2015-03-31,2015-03-31,Supportive,F1,1.0,0.0,0.0
+P184,Morowali nickel smelter / battery plant,1,2019-01-09,2019-01-09,Supportive,F1,1.0,0.0,0.0
+P185,Morowali nickel smelters (general),1,2023-12-30,2023-12-30,Opposed,F4,0.0,0.0,1.0
+P186,Morowali nickel-based industrial park,1,2019-01-17,2019-01-17,Supportive,F1,1.0,0.0,0.0
+P187,Morowali stainless-steel smelter (Tsingshan),1,2019-04-09,2019-04-09,Supportive,F1,1.0,0.0,0.0
+P188,National Slum Enhancement Project,1,2018-03-12,2018-03-12,Supportive,F1,1.0,0.0,0.0
+P189,National Slum Upgrading Program,1,2018-03-13,2018-03-13,Supportive,F1,1.0,0.0,0.0
+P190,New Silk Road,1,2015-02-21,2015-02-21,Neutral,F5,0.0,1.0,0.0
+P191,Nickel downstreaming (Morowali & North Maluku),2,2023-02-04,2023-02-05,Opposed,F4,0.0,0.0,1.0
+P192,North Halmahera EV battery project,1,2018-12-06,2018-12-06,Supportive,F1,1.0,0.0,0.0
+P193,North Konawe illegal nickel mining,1,2023-01-22,2023-01-22,Opposed,F4,0.0,0.0,1.0
+P194,North Natuna Sea,1,2020-04-04,2020-04-04,Opposed,F5,0.0,0.0,1.0
+P195,Obi & Morowali nickel projects,1,2020-03-09,2020-03-09,Opposed,F4,0.0,0.0,1.0
+P196,Oki Pulp and Paper Mills,2,2014-06-23,2014-06-27,Supportive,F1,1.0,0.0,0.0
+P197,PLN East Java & Bali Power Distribution Project (AIIB),1,2019-09-02,2019-09-02,Supportive,F1,1.0,0.0,0.0
+P198,PLTU Riau-1,2,2018-08-25,2018-08-27,Opposed,F4,0.0,0.0,1.0
+P199,"PT GNI CSR and education programs, North Morowali",1,2023-11-23,2023-11-23,Supportive,F1,1.0,0.0,0.0
+P200,"PT GNI nickel smelter CSR, North Morowali",1,2023-12-19,2023-12-19,Supportive,F1,1.0,0.0,0.0
+P201,"PT GNI nickel smelter, North Morowali",2,2023-11-15,2023-12-28,Supportive,F3,1.0,0.0,0.0
+P202,Pomalaa nickel project (Vale–Huayou–Ford),1,2022-11-29,2022-11-29,Supportive,F1,1.0,0.0,0.0
+P203,QMB / Morowali EV battery plant,1,2019-01-29,2019-01-29,Supportive,F1,1.0,0.0,0.0
+P204,RIDF (AIIB proposal),1,2017-03-04,2017-03-04,Opposed,F4,0.0,0.0,1.0
+P205,Ream Naval Base (Cambodia),1,2022-09-05,2022-09-05,Opposed,F5,0.0,0.0,1.0
+P206,Rempang Eco-City,1,2023-10-05,2023-10-05,Opposed,F4,0.0,0.0,1.0
+P207,Semarang–Demak toll road & satellite project,1,2019-07-15,2019-07-15,Supportive,F1,1.0,0.0,0.0
+P208,Sokon/DFSK car plant (Tangerang),1,2015-07-27,2015-07-27,Supportive,F1,1.0,0.0,0.0
+P209,Suramadu & future Chinese-built bridges,1,2023-10-27,2023-10-27,Supportive,F1,1.0,0.0,0.0
+P210,Tokopedia–TikTok deal and Chinese e-commerce platforms,1,2023-12-16,2023-12-16,Opposed,F2,0.0,0.0,1.0
+P211,Trans-Sulawesi and Trans-Sumatra railways,1,2016-05-22,2016-05-22,Neutral,F1,0.0,1.0,0.0
+P212,Transjakarta Chinese buses,2,2014-03-03,2014-05-14,Opposed,F4,0.0,0.0,1.0
+P213,Upper Cisokan hydropower plant,1,2022-03-17,2022-03-17,Supportive,F1,1.0,0.0,0.0
+P214,Vale nickel smelters (Bahodopi/Morowali),1,2023-07-16,2023-07-16,Neutral,F4,0.0,1.0,0.0
+P215,Virtue Dragon nickel smelter (Konawe),1,2018-05-07,2018-05-07,Opposed,F3,0.0,0.0,1.0
+P216,Weda Bay Industrial Park,1,2021-03-18,2021-03-18,Supportive,F1,1.0,0.0,0.0
+P217,Whoosh (Jakarta–Bandung HSR),3,2024-07-10,2024-11-07,Supportive,F1,0.6667,0.0,0.3333
+P218,Whoosh / Jakarta–Bandung HSR,9,2023-09-21,2023-10-24,Opposed,F2,0.2222,0.3333,0.4444
+P219,Whoosh / Jakarta–Bandung HSR (KCIC),1,2023-11-26,2023-11-26,Supportive,F1,1.0,0.0,0.0
+P220,Whoosh HSR & RI–China transport cooperation,1,2024-01-15,2024-01-15,Supportive,F5,1.0,0.0,0.0
+P221,Whoosh HSR & other PSN (IKN transport),1,2024-04-18,2024-04-18,Supportive,F1,1.0,0.0,0.0
+P222,Whoosh HSR extension Bandung–Surabaya,1,2024-10-09,2024-10-09,Supportive,F1,1.0,0.0,0.0
+P223,Whoosh HSR extension Jakarta–Surabaya,1,2024-04-20,2024-04-20,Neutral,F1,0.0,1.0,0.0
+P224,Whoosh within PSN (plus other PSN),1,2024-05-16,2024-05-16,Opposed,F4,0.0,0.0,1.0

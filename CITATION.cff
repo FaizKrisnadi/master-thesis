@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "master-thesis"
+type: software
+authors:
+  - family-names: "Krisnadi"
+    given-names: "Faiz"
+repository-code: "https://github.com/faizkrisnadi/master-thesis"
+license: "MIT"
+version: "0.1.0"
+date-released: 2026-03-07
+abstract: >
+  Thesis repository scaffold for project universe construction, corpus metadata
+  preparation, LLM-assisted coding, validation, and output generation.

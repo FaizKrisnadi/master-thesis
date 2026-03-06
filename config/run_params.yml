@@ -1,0 +1,8 @@
+project_name: master-thesis
+sample_size: 0
+random_seed: 42
+llm_model: gpt-4.1
+batch_size: 25
+temperature: 0.0
+min_validation_share: 0.1
+overwrite_outputs: false

@@ -1,0 +1,31 @@
+cue_family,term,article_hits,total_occurrences
+liability,bank,96,159
+liability,cost,83,186
+liability,biaya,64,254
+liability,cdb,48,122
+liability,pinjaman,43,111
+liability,anggaran,37,66
+liability,cost overrun,32,68
+liability,loan,32,64
+liability,pembengkakan biaya,29,63
+liability,budget,29,52
+liability,procurement,28,48
+liability,debt,27,52
+liability,guarantee,25,52
+liability,utang,24,140
+liability,jaminan,22,62
+state,pemerintah,100,470
+state,kementerian,81,198
+state,menteri,76,170
+state,state-owned,69,118
+state,presiden,64,175
+state,bumn,55,145
+state,badan usaha milik negara,41,45
+state,bkpm,17,23
+state,proyek strategis nasional,13,18
+state,peraturan presiden,12,18
+state,soe,12,18
+state,perpres,9,24
+state,istana,8,9
+state,bappenas,6,8
+state,kppip,6,6

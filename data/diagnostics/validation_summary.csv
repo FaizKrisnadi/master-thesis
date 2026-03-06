@@ -1,0 +1,7 @@
+run_id,check_name,status,details
+inter_model_reliability_100,chatgpt_claude_stance,review,N=100; percent_agreement=0.72; kappa=0.570
+inter_model_reliability_100,chatgpt_claude_frame,review,N=100; percent_agreement=0.81; kappa=0.736
+inter_model_reliability_100,chatgpt_gemini_stance,review,N=100; percent_agreement=0.52; kappa=0.292
+inter_model_reliability_100,chatgpt_gemini_frame,review,N=100; percent_agreement=0.46; kappa=0.203
+inter_model_reliability_100,claude_gemini_stance,review,N=100; percent_agreement=0.49; kappa=0.246
+inter_model_reliability_100,claude_gemini_frame,review,N=100; percent_agreement=0.51; kappa=0.278

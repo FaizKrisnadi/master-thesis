@@ -1,0 +1,8 @@
+project_root: /absolute/path/to/master-thesis
+raw_data_dir: /absolute/path/to/master-thesis/data/raw
+external_data_dir: /absolute/path/to/master-thesis/data/external
+processed_data_dir: /absolute/path/to/master-thesis/data/processed
+diagnostics_dir: /absolute/path/to/master-thesis/data/diagnostics
+outputs_dir: /absolute/path/to/master-thesis/outputs
+corpus_export_dir: /absolute/path/to/corpus_exports
+interview_notes_dir: /absolute/path/to/interview_notes

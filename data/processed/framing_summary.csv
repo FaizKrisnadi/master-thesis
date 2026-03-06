@@ -1,0 +1,268 @@
+project_id,project_name,frame_code,document_count,share
+P001,AIIB,F1,5,0.4545
+P001,AIIB,F5,6,0.5455
+P002,AIIB COVID-19 loan,F1,1,1.0
+P003,Asian Infrastructure Investment Bank (AIIB),F1,3,0.1429
+P003,Asian Infrastructure Investment Bank (AIIB),F4,1,0.0476
+P003,Asian Infrastructure Investment Bank (AIIB),F5,17,0.8095
+P004,BRI COVID-19 medical aid,F5,1,1.0
+P005,"BRI coal power projects (Tanah Kuning, Kalselteng 3/4, Celukan Bawang 2)",F4,1,1.0
+P006,BRI energy infrastructure (general),F4,1,1.0
+P007,BRICS membership & Chinese financing,F5,1,1.0
+P008,Balikpapan-Samarinda toll road,F1,2,1.0
+P009,Balikpapan–Samarinda toll road,F1,1,1.0
+P010,Batam KEK (Nongsa Digital Park & Batam Aero Technic),F1,1,1.0
+P011,Batam/Rempang free trade & special economic zone,F4,1,1.0
+P012,Batang Industrial Park,F1,1,1.0
+P013,Batang Toru hydropower,F4,2,1.0
+P014,Belt and Road / OBOR,F5,1,1.0
+P015,Belt and Road Forum / BRI,F5,1,1.0
+P016,Belt and Road Forum / Maritime Silk Road,F5,1,1.0
+P017,Belt and Road Initiative,F1,1,0.1429
+P017,Belt and Road Initiative,F5,6,0.8571
+P018,Belt and Road Initiative (BRI),F1,3,0.25
+P018,Belt and Road Initiative (BRI),F2,5,0.4167
+P018,Belt and Road Initiative (BRI),F5,4,0.3333
+P019,Belt and Road Initiative (BRI) / Kuala Tanjung port,F5,1,1.0
+P020,Belt and Road Initiative / OBOR,F1,8,0.6154
+P020,Belt and Road Initiative / OBOR,F5,5,0.3846
+P021,Belt and Road Summit / BRI,F5,1,1.0
+P022,Bitung & Kuala Tanjung ports (OBOR),F1,1,1.0
+P023,CFLD Lavon Swancity & Karawang New Industry,F1,1,1.0
+P024,China Fortune integrated industrial park,F1,1,1.0
+P025,Cisumdawu toll road,F1,3,1.0
+P026,Dairi Prima Mineral zinc and lead project,F1,1,1.0
+P027,Fast-Track Program I coal plants,F4,1,1.0
+P028,GNI nickel smelter (North Morowali),F3,4,0.8
+P028,GNI nickel smelter (North Morowali),F4,1,0.2
+P029,General,F1,109,0.4192
+P029,General,F2,27,0.1038
+P029,General,F3,10,0.0385
+P029,General,F4,18,0.0692
+P029,General,F5,96,0.3692
+P030,General (5 flagship China–Indonesia projects),F1,1,1.0
+P031,General (Asian water politics),F5,1,1.0
+P032,General (BRF visit & diplomacy),F5,1,1.0
+P033,General (BRI & Chinese nickel smelters in Indonesia),F5,1,1.0
+P034,General (BRI / Whoosh),F5,1,1.0
+P035,General (BRI / global climate),F4,1,1.0
+P036,General (BRI / shared future),F5,1,1.0
+P037,General (BRI and RI–China comprehensive partnership),F5,1,1.0
+P038,General (BRI energy projects / CEEC),F5,1,1.0
+P039,General (BRI global),F5,1,1.0
+P040,General (BRI in Southeast Asia),F5,1,1.0
+P041,General (BRI lending & debt trap),F2,1,1.0
+P042,General (BRI projects),F2,1,1.0
+P043,General (BRI),F5,1,1.0
+P044,"General (BRI, HSR, nickel and IKN)",F2,1,1.0
+P045,"General (BRI, KCJB & Morowali)",F5,1,1.0
+P046,General (CEWC 2024 and high quality BRI),F5,1,1.0
+P047,General (China slowdown & Indonesian exports),F1,1,1.0
+P048,General (China–Indonesia trade & investment linkages),F1,1,1.0
+P049,General (China–Indonesia “community with shared future”),F5,1,1.0
+P050,General (China’s global role & BRI),F5,1,1.0
+P051,General (China’s ‘community of shared future’ & diplomacy),F5,1,1.0
+P052,General (Chinese FDI & IKN / downstream),F5,1,1.0
+P053,General (Chinese FDI & elections),F5,1,1.0
+P054,"General (Chinese FDI, IKN, downstream)",F5,1,1.0
+P055,General (Chinese energy & coal projects),F4,1,1.0
+P056,General (Chinese infrastructure & downstream loans),F2,1,1.0
+P057,"General (Chinese investment, HSR and nickel projects)",F4,1,1.0
+P058,General (Chinese real estate FDI),F1,1,1.0
+P059,General (Chinese tech & fintech platforms),F4,1,1.0
+P060,General (ESG in nickel & tin mining),F4,1,1.0
+P061,General (IPEF and US–China rivalry),F5,1,1.0
+P062,General (Indonesia–China digital and smart city cooperation),F5,1,1.0
+P063,General (Indonesia–China investment and nickel sector),F5,1,1.0
+P064,General (Indonesia–China strategic partnership & IKN),F5,1,1.0
+P065,General (Indonesia’s trade dependence on China),F5,1,1.0
+P066,General (Prabowo early visit to China),F5,1,1.0
+P067,General (Prabowo–Xi relationship),F5,1,1.0
+P068,"General (RI–China bilateral ties, BRI, Whoosh, IKN)",F5,1,1.0
+P069,General (RI–China relations and Whoosh),F5,1,1.0
+P070,General (Vale nickel projects),F1,1,1.0
+P071,General (Xi’s “Chinese modernization”),F5,1,1.0
+P072,General (connectivity & BRI-related logistics),F1,1,1.0
+P073,General (energy transition cooperation),F2,1,1.0
+P074,General (food-estate & mining PSN),F4,1,1.0
+P075,General (future Indonesia–China ties),F5,1,1.0
+P076,"General (geo-economic competition in clean energy, BRI vs G7)",F5,1,1.0
+P077,General (green finance and investment in Indonesia),F4,1,1.0
+P078,General (halal industrial zones),F1,1,1.0
+P079,General (hilirisasi & smelters),F1,1,1.0
+P080,General (incl. Chinese investment & HSR),F2,1,1.0
+P081,General (mining downstream policy),F3,1,1.0
+P082,General (nickel EV battery ecosystem),F1,1,1.0
+P083,General (nickel downstream districts),F3,1,1.0
+P084,General (nickel downstream industry & smelter coal plants),F4,1,1.0
+P085,General (nickel downstreaming & Chinese-linked EV supply chain),F4,1,1.0
+P086,General (nickel downstreaming & EV industrial policy),F4,1,1.0
+P087,General (nickel downstreaming & smelters),F4,1,0.5
+P087,General (nickel downstreaming & smelters),F5,1,0.5
+P088,General (nickel export policy),F2,1,1.0
+P089,General (nickel smelter regions: Morowali & Central Halmahera),F3,1,1.0
+P090,General (nickel smelters),F1,1,1.0
+P091,General (nickel “downstreaming”),F2,1,1.0
+P092,General (sovereign debt),F2,1,1.0
+P093,"General nickel industry (Vale, Morowali, etc.)",F4,1,1.0
+P094,General nickel mining,F4,1,1.0
+P095,Giant Sea Wall (Jakarta–Gresik),F4,1,1.0
+P096,Gorontalo Minerals copper/gold project,F1,1,1.0
+P097,Halmahera nickel & EV battery project,F1,1,1.0
+P098,"Hambantota port, Sri Lanka",F2,1,1.0
+P099,Huaqing infrastructure & toll-road projects,F1,1,1.0
+P100,"IMIP / ITSS / GNI nickel smelters, Morowali",F4,2,1.0
+P101,"IMIP / ITSS nickel smelter, Morowali",F4,2,1.0
+P102,"IMIP nickel industrial park, Morowali",F4,1,1.0
+P103,"ITSS nickel smelter & nickel downstreaming, IMIP Morowali",F2,1,1.0
+P104,"ITSS nickel smelter, IMIP Morowali",F4,1,1.0
+P105,Indonesia Eximbank China Eximbank/ICBC loans,F1,1,1.0
+P106,Indonesia Morowali Industrial Park,F1,1,1.0
+P107,Indonesia Morowali Industrial Park (IMIP),F1,1,1.0
+P108,Jakarta LRT,F1,1,1.0
+P109,Jakarta MRT,F1,1,1.0
+P110,Jakarta Monorail,F1,1,0.25
+P110,Jakarta Monorail,F4,3,0.75
+P111,Jakarta-Bandung HSR,F1,3,0.0938
+P111,Jakarta-Bandung HSR,F2,16,0.5
+P111,Jakarta-Bandung HSR,F4,12,0.375
+P111,Jakarta-Bandung HSR,F5,1,0.0312
+P112,Jakarta-Bandung high-speed railway,F1,13,0.1566
+P112,Jakarta-Bandung high-speed railway,F2,24,0.2892
+P112,Jakarta-Bandung high-speed railway,F3,3,0.0361
+P112,Jakarta-Bandung high-speed railway,F4,41,0.494
+P112,Jakarta-Bandung high-speed railway,F5,2,0.0241
+P113,Jakarta-Surabaya rail,F1,1,1.0
+P114,Jakarta-Surabaya rail upgrade,F1,1,1.0
+P115,Jakarta–Bandung / Jakarta–Surabaya HSR,F1,1,1.0
+P116,Jakarta–Bandung HSR,F1,3,0.3333
+P116,Jakarta–Bandung HSR,F2,6,0.6667
+P117,Jakarta–Bandung HSR & Jakarta–Surabaya rail,F5,1,1.0
+P118,Jakarta–Bandung HSR & North Kalimantan Industrial Park,F1,1,1.0
+P119,Jakarta–Bandung HSR (KCJB),F2,4,1.0
+P120,Jakarta–Bandung HSR (KCJB) feeder,F1,1,1.0
+P121,Jakarta–Bandung high-speed rail,F4,1,0.5
+P121,Jakarta–Bandung high-speed rail,F5,1,0.5
+P122,Jakarta–Bandung high-speed rail (KCJB),F1,8,0.3636
+P122,Jakarta–Bandung high-speed rail (KCJB),F2,5,0.2273
+P122,Jakarta–Bandung high-speed rail (KCJB),F3,1,0.0455
+P122,Jakarta–Bandung high-speed rail (KCJB),F4,4,0.1818
+P122,Jakarta–Bandung high-speed rail (KCJB),F5,4,0.1818
+P123,Jakarta–Bandung high-speed railway,F1,7,0.5833
+P123,Jakarta–Bandung high-speed railway,F4,4,0.3333
+P123,Jakarta–Bandung high-speed railway,F5,1,0.0833
+P124,Jakarta–Lebak toll road,F1,1,1.0
+P125,Jakarta–Surabaya HSR extension,F1,1,0.5
+P125,Jakarta–Surabaya HSR extension,F2,1,0.5
+P126,Jakarta–Surabaya HSR extension (Whoosh),F1,1,1.0
+P127,Jakarta–Surabaya HSR extension / BRI,F2,1,1.0
+P128,Jakarta–Surabaya high-speed rail plan,F1,1,1.0
+P129,Jakarta–Surabaya high-speed rail plan (via Bandung),F4,1,1.0
+P130,Jakarta–Surabaya medium-speed rail,F2,1,1.0
+P131,Jakarta–Surabaya rail,F1,1,1.0
+P132,Java–Sumatra electricity interconnection (PLN–SGCC),F1,1,1.0
+P133,KCI Commuter Line train purchase from CRRC Sifang,F1,1,1.0
+P134,KCI Commuter Line trains from CRRC,F1,1,1.0
+P135,KCI purchase of CRRC Sifang commuter trains,F1,1,1.0
+P136,KCJB (Jakarta–Bandung HSR/Whoosh),F1,3,0.4286
+P136,KCJB (Jakarta–Bandung HSR/Whoosh),F2,2,0.2857
+P136,KCJB (Jakarta–Bandung HSR/Whoosh),F4,1,0.1429
+P136,KCJB (Jakarta–Bandung HSR/Whoosh),F5,1,0.1429
+P137,KIHI & nickel/aluminum smelter clusters,F4,1,1.0
+P138,Kalimantan Industrial Park Indonesia (green industrial zone),F4,1,1.0
+P139,Konawe & Morowali nickel smelters,F3,1,1.0
+P140,Konawe nickel smelter (Virtue Dragon),F1,1,1.0
+P141,Kotaku slum upgrading (AIIB loan),F4,1,1.0
+P142,Kuala Tanjung Port special economic zone,F1,1,1.0
+P143,Manado–Bitung toll road,F1,5,0.8333
+P143,Manado–Bitung toll road,F4,1,0.1667
+P144,Mandalika,F1,2,1.0
+P145,Mandalika tourism project,F2,1,0.5
+P145,Mandalika tourism project,F4,1,0.5
+P146,Mandiodo nickel mine,F4,1,1.0
+P147,Maritime Silk Road,F5,3,1.0
+P148,Maritime Silk Road / Belt and Road,F5,1,1.0
+P149,Maritime Silk Road / World Maritime Axis,F5,1,1.0
+P150,Medan Chinese hospital project,F1,1,1.0
+P151,Medan–Kuala Namu toll road,F1,2,1.0
+P152,Morowali,F4,1,1.0
+P153,Morowali & Konawe nickel smelters,F1,1,1.0
+P154,Morowali & North Konawe nickel mining,F4,1,1.0
+P155,Morowali (CNGR–UGM R&D / nickel),F1,1,1.0
+P156,Morowali (IMIP HPAL smelter),F1,1,1.0
+P157,Morowali (PT GNI CSR programs),F1,1,1.0
+P158,Morowali (PT GNI smelter),F1,1,1.0
+P159,Morowali (biomass power plant),F1,1,1.0
+P160,Morowali (nickel/EV industrial park),F1,1,1.0
+P161,Morowali / IMIP,F4,1,1.0
+P162,Morowali / IMIP nickel smelters,F3,1,1.0
+P163,Morowali / nickel mining and smelters,F4,1,1.0
+P164,Morowali / nickel smelter investments,F1,1,1.0
+P165,Morowali / smelter projects,F4,1,1.0
+P166,Morowali EV battery materials project (QMB),F1,1,1.0
+P167,Morowali EV battery plant,F1,1,1.0
+P168,Morowali Industrial Park,F1,5,0.7143
+P168,Morowali Industrial Park,F3,1,0.1429
+P168,Morowali Industrial Park,F4,1,0.1429
+P169,Morowali Industrial Park (IMIP),F1,4,0.5
+P169,Morowali Industrial Park (IMIP),F3,3,0.375
+P169,Morowali Industrial Park (IMIP),F4,1,0.125
+P170,Morowali Tsingshan industrial area,F1,1,1.0
+P171,Morowali industrial area,F1,1,1.0
+P172,Morowali industrial estate,F1,1,1.0
+P173,Morowali industrial estate (nickel smelter),F1,1,1.0
+P174,Morowali lithium battery factory,F1,1,1.0
+P175,Morowali lithium battery plant,F1,1,1.0
+P176,Morowali lithium battery project,F1,1,1.0
+P177,Morowali nickel,F1,1,1.0
+P178,Morowali nickel / EV investment,F1,1,1.0
+P179,Morowali nickel mining,F4,1,1.0
+P180,Morowali nickel project,F4,1,1.0
+P181,Morowali nickel smelter,F1,4,0.8
+P181,Morowali nickel smelter,F4,1,0.2
+P182,Morowali nickel smelter (GNI),F1,1,1.0
+P183,Morowali nickel smelter (Sulawesi Mining Investment),F1,1,1.0
+P184,Morowali nickel smelter / battery plant,F1,1,1.0
+P185,Morowali nickel smelters (general),F4,1,1.0
+P186,Morowali nickel-based industrial park,F1,1,1.0
+P187,Morowali stainless-steel smelter (Tsingshan),F1,1,1.0
+P188,National Slum Enhancement Project,F1,1,1.0
+P189,National Slum Upgrading Program,F1,1,1.0
+P190,New Silk Road,F5,1,1.0
+P191,Nickel downstreaming (Morowali & North Maluku),F4,2,1.0
+P192,North Halmahera EV battery project,F1,1,1.0
+P193,North Konawe illegal nickel mining,F4,1,1.0
+P194,North Natuna Sea,F5,1,1.0
+P195,Obi & Morowali nickel projects,F4,1,1.0
+P196,Oki Pulp and Paper Mills,F1,2,1.0
+P197,PLN East Java & Bali Power Distribution Project (AIIB),F1,1,1.0
+P198,PLTU Riau-1,F4,2,1.0
+P199,"PT GNI CSR and education programs, North Morowali",F1,1,1.0
+P200,"PT GNI nickel smelter CSR, North Morowali",F1,1,1.0
+P201,"PT GNI nickel smelter, North Morowali",F1,1,0.5
+P201,"PT GNI nickel smelter, North Morowali",F3,1,0.5
+P202,Pomalaa nickel project (Vale–Huayou–Ford),F1,1,1.0
+P203,QMB / Morowali EV battery plant,F1,1,1.0
+P204,RIDF (AIIB proposal),F4,1,1.0
+P205,Ream Naval Base (Cambodia),F5,1,1.0
+P206,Rempang Eco-City,F4,1,1.0
+P207,Semarang–Demak toll road & satellite project,F1,1,1.0
+P208,Sokon/DFSK car plant (Tangerang),F1,1,1.0
+P209,Suramadu & future Chinese-built bridges,F1,1,1.0
+P210,Tokopedia–TikTok deal and Chinese e-commerce platforms,F2,1,1.0
+P211,Trans-Sulawesi and Trans-Sumatra railways,F1,1,1.0
+P212,Transjakarta Chinese buses,F4,2,1.0
+P213,Upper Cisokan hydropower plant,F1,1,1.0
+P214,Vale nickel smelters (Bahodopi/Morowali),F4,1,1.0
+P215,Virtue Dragon nickel smelter (Konawe),F3,1,1.0
+P216,Weda Bay Industrial Park,F1,1,1.0
+P217,Whoosh (Jakarta–Bandung HSR),F1,2,0.6667
+P217,Whoosh (Jakarta–Bandung HSR),F4,1,0.3333
+P218,Whoosh / Jakarta–Bandung HSR,F1,4,0.4444
+P218,Whoosh / Jakarta–Bandung HSR,F2,5,0.5556
+P219,Whoosh / Jakarta–Bandung HSR (KCIC),F1,1,1.0
+P220,Whoosh HSR & RI–China transport cooperation,F5,1,1.0
+P221,Whoosh HSR & other PSN (IKN transport),F1,1,1.0
+P222,Whoosh HSR extension Bandung–Surabaya,F1,1,1.0
+P223,Whoosh HSR extension Jakarta–Surabaya,F1,1,1.0
+P224,Whoosh within PSN (plus other PSN),F4,1,1.0
