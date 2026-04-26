@@ -1,6 +1,6 @@
 # Does the Label Matter?
 
-This repository is the public-safe research companion for the master's thesis:
+This repository is the public replication companion for the master's thesis:
 
 **Does the Label Matter? Explaining When Chinese Development Finance and FDI Blur in Indonesian Elite Narratives**
 
