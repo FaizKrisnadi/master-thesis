@@ -12,7 +12,7 @@ The project studies how Indonesian elite media narrate Chinese-linked capital. I
 - coded article-level outputs in `data/processed/coded_outputs.csv`
 - derived summaries for stance, framing, and case-level patterns
 - the coding prompts, frame codebook, stance codebook, and tier definitions
-- the submitted thesis draft, abstract, and poster
+- the thesis abstract and poster
 
 ## What this repository does not contain
 
@@ -23,13 +23,14 @@ This repository was sanitized before publication. It does **not** include:
 - proprietary analytics exports or third-party screenshots
 - sensitive interview materials
 - offline source archives used during thesis assembly
+- the full submitted thesis manuscript
 
 The aim is to make the workflow legible without redistributing material that should not be public.
 
 ## Read this first
 
 - Thesis abstract: [`docs/thesis_abstract.md`](docs/thesis_abstract.md)
-- Submitted draft: [`docs/thesis_submitted_draft.pdf`](docs/thesis_submitted_draft.pdf)
+- Full thesis manuscript: available on request
 - Poster: [`docs/poster.pdf`](docs/poster.pdf)
 - Data access and provenance notes: [`docs/data_access.md`](docs/data_access.md)
 
@@ -75,8 +76,8 @@ Suggested citation:
 Krisnadi, Faiz. 2026. Does the Label Matter? master-thesis repository. GitHub repository. https://github.com/FaizKrisnadi/master-thesis
 ```
 
-If you are citing the thesis itself rather than the repository, use the submitted draft and thesis title in [`docs/thesis_submitted_draft.pdf`](docs/thesis_submitted_draft.pdf).
+If you are citing the thesis itself rather than the repository, use the thesis title and submitted manuscript metadata.
 
 ## License
 
-This repository is released under the [`MIT License`](LICENSE). That license applies to the repository contents here, not necessarily to third-party source materials held offline and described in the documentation.
+This repository is released under the [`MIT License`](LICENSE). That license applies to the code and public-safe repository materials here, not to the full thesis manuscript, third-party source materials held offline, or other restricted materials described in the documentation.

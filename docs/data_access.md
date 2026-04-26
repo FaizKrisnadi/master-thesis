@@ -13,9 +13,9 @@ materials in an offline source archive.
   `data/processed/corpus_metadata.csv`.
 - Offline cue-hit and validation artifacts: used to populate
   `data/diagnostics/`.
-- Submitted thesis appendices and submitted draft: used to reconstruct prompts,
+- Submitted thesis appendices and manuscript: used to reconstruct prompts,
   codebooks, and the abstract documentation in this repo.
-- Submitted draft PDF: `docs/thesis_submitted_draft.pdf`
+- Full submitted thesis manuscript: available on request.
 
 ## Not Distributed in This Public-Safe Repo
 
@@ -27,6 +27,7 @@ repository:
 - proprietary or licensed upstream datasets
 - proprietary analytics screenshots or exported figures
 - sensitive interview materials
+- the full submitted thesis manuscript
 
 ## Access Notes
 
@@ -35,5 +36,6 @@ repository:
 - This repository is intended to document the thesis workflow and preserve
   public-safe derived artifacts rather than serve as a redistribution bundle for
   third-party source data.
-- Prompts and codebooks were reconstructed from the submitted thesis appendices,
-  and the submitted draft PDF is included for reference.
+- Prompts and codebooks were reconstructed from the submitted thesis appendices.
+  The full submitted thesis manuscript is available on request rather than
+  redistributed through this public repository.
