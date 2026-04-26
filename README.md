@@ -73,7 +73,7 @@ If you use this repository, cite the repository metadata in [`CITATION.cff`](CIT
 Suggested citation:
 
 ```text
-Krisnadi, Faiz. 2026. Does the Label Matter? master-thesis repository. GitHub repository. https://github.com/FaizKrisnadi/master-thesis
+Krisnadi, Muhammad Faiz. 2026. Does the Label Matter? master-thesis repository. GitHub repository. https://github.com/FaizKrisnadi/master-thesis
 ```
 
 If you are citing the thesis itself rather than the repository, use the thesis title and submitted manuscript metadata.
