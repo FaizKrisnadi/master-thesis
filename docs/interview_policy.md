@@ -1,19 +1,18 @@
 # Interview Policy
 
 The submitted thesis reports four elite interviews used for process evidence.
-This repository should not store identifiable transcripts or audio by default.
+Identifiable interview materials are excluded from this public repository.
 
-## Handling Rules
+## Public Handling Policy
 
-- Keep consent materials separate from analytic notes.
-- De-identify interview records before they enter any shared analysis folder.
-- Do not commit raw recordings, verbatim transcripts, or direct identifiers.
-- If coded interview notes are needed, store them in a non-public location and
-  reference them in aggregate only.
-- Attribute interview evidence in the thesis as process-tracing support unless
-  explicit permission allows direct quotation.
+- Consent materials, analytic notes, raw recordings, verbatim transcripts, and
+  direct identifiers are not redistributed here.
+- Public documentation is limited to non-identifying metadata, handling notes,
+  and aggregate descriptions of how interview evidence supports the thesis.
+- Interview evidence is treated as process-tracing support unless explicit
+  permission allows direct quotation.
 
-## Repo Practice
+## Directory Scope
 
-Use `interviews/` only for metadata, handling notes, and documentation of the
-storage policy. Keep any sensitive interview materials outside this Git repo.
+The `interviews/` directory is reserved for public-safe documentation. It does
+not contain respondent-level source material.

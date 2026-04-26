@@ -1,5 +1,8 @@
 # Interviews
 
-Store interview-related documentation, non-sensitive metadata, and processing
-instructions here. Do not commit identifiable transcripts or recordings unless
-you have explicit approval and a clear retention policy.
+This directory is reserved for public-safe interview documentation, such as
+protocol notes, consent-language summaries, or non-identifying metadata.
+
+Identifiable transcripts, recordings, raw notes, and respondent-level materials
+are not included in this public repository. See `docs/interview_policy.md` for
+the repository's public handling policy.
