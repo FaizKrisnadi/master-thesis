@@ -6,6 +6,14 @@ This repository is the public replication companion for the master's thesis:
 
 The project studies how Indonesian elite media narrate Chinese-linked capital. It asks why some cases stay in a routine diplomatic register, while others shift into technocratic scrutiny or polarized contestation. The empirical core of the repository is a coded media corpus, article-level metadata, derived summary tables, and documentation for the LLM-assisted measurement workflow used in the thesis.
 
+## Methods at a glance
+- Corpus: 762 unique articles, 2013 to 2024, from Kompas, Tempo, and The Jakarta Post
+- Task: assign one dominant frame, F1 to F5, and one stance, Supportive, Neutral, or Opposed, per article, with a one-sentence reasoning naming the key cues
+- Validation: fixed 100-article set, fixed random seed 20260206, replicated across ChatGPT, Claude, and Gemini
+- Agreement: ChatGPT vs Claude, stance 72% with kappa 0.570, frame 81% with kappa 0.736; Gemini pairs lower, 46% to 52%
+- Human audit: manual review of 20 high-disagreement cases, focused on F5 vs F1 and Neutral vs Opposed
+- Details: docs/llm_measurement_note.md, codebook in codebook/, prompts in prompts/
+
 ## What this repository contains
 
 - public-safe article metadata in `data/processed/corpus_metadata.csv`
