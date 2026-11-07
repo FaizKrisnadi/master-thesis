@@ -6,6 +6,8 @@ This repository is the public replication companion for the master's thesis:
 
 The project studies how Indonesian elite media narrate Chinese-linked capital. It asks why some cases stay in a routine diplomatic register, while others shift into technocratic scrutiny or polarized contestation. The empirical core of the repository is a coded media corpus, article-level metadata, derived summary tables, and documentation for the LLM-assisted measurement workflow used in the thesis.
 
+Follow-on work: [nlp-thesis](https://github.com/FaizKrisnadi/nlp-thesis) fine-tunes multilingual BERT and XLM-R on these labels, with a TF-IDF baseline.
+
 ## Methods at a glance
 - Corpus: 762 unique articles, 2013 to 2024, from Kompas, Tempo, and The Jakarta Post
 - Task: assign one dominant frame, F1 to F5, and one stance, Supportive, Neutral, or Opposed, per article, with a one-sentence reasoning naming the key cues
